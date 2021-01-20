@@ -7,7 +7,7 @@ Data:
 
 In this folder, you can reach the network instances randomly generated according to Barabasi-Albert, Erdos-Renyi, and Watts-Strogatz models. We also share the datasets for two real-world protein-protein interaction network instances.
 
-For each network, there is "adjacencyList.txt" file which represents the adjacency list.  In addition, there is "bound.txt" file which can be used as a a constraint tightening in NIP formulation. 
+For each network instance, there is "adjacencyList.txt" file which represents the adjacency list.  In addition, there is "bound.txt" file which can be used as a a constraint tightening in NIP formulation. 
 
 
 Code Files:
